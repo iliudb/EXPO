@@ -46,6 +46,7 @@ router.get('/default', function(req, res, next) {
         var data = {
             "call": "default",
             "webname": "ONESLOT.BET",
+            "weblogo": "https://ftpimgmyauto.s3.ap-southeast-1.amazonaws.com/oneslotassets/oneslotlogo.png",
             "maincolor": "#673ab7",
             "fontXL": 40,
             "fontL": 30,
